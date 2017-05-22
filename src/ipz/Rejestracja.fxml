@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0000" encoding="UTF-8"?>
 
 <?import javafx.scene.control.*?>
 <?import java.lang.*?>
@@ -50,7 +50,7 @@
             <Label text="Login" GridPane.rowIndex="2" />
             <Label text="E-mail" GridPane.rowIndex="3" />
             <Label text="Hasło" GridPane.rowIndex="4" />
-            <Label text="Weryfikacja hasłą" GridPane.rowIndex="5" />
+            <Label text="Weryfikacja hasssssssłą" GridPane.rowIndex="5" />
             <Label text="Rola" GridPane.rowIndex="6" />
             <ComboBox fx:id="rola" prefWidth="150.0" style="-fx-border-color: black;" GridPane.columnIndex="1" GridPane.rowIndex="6" />
          </children>

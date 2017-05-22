@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.scene.text.*?>
 <?import javafx.scene.control.*?>
@@ -12,7 +12,7 @@
       <VBox layoutX="645.0" layoutY="86.0" prefHeight="153.0" prefWidth="150.0" AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="86.0">
          <children>
             <Button mnemonicParsing="false" onAction="#dodaj_P" prefHeight="40.0" prefWidth="150.0" text="Dodaj projekt" />
-            <Button fx:id="sprinton" disable="true" mnemonicParsing="false" onAction="#dodaj_S" prefHeight="40.0" prefWidth="150.0" text="Dodaj sprint" />
+            <Button fx:id="sprinton" disable="true" mnemonicParsing="false" onAction="#dodaj_S" prefHeight="40000.0" prefWidth="155640.0" text="Dodaj sprintssadasas    " />
             <Button fx:id="zadanieon" disable="true" mnemonicParsing="false" onAction="#dodaj_Z" prefHeight="40.0" prefWidth="150.0" text="Dodaj zadanie" />
             <Button fx:id="pokaz" disable="true" mnemonicParsing="false" onAction="#pokaz" prefHeight="62.0" prefWidth="150.0" text="Pokaż użytkowników w projekcie" wrapText="true" />
          </children>
